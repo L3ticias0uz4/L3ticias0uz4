@@ -1,7 +1,7 @@
 # 👋 Oi, eu sou a Letícia!
 
 🎓 Estudante de **Desenvolvimento de Sistemas**  
-💻 Apaixonada por tecnologia, lógica e desenvolvimento de software  
+💻 Aprendendendo mais sobre tecnologia, lógica e desenvolvimento de software  
 🚀 Em constante aprendizado e evolução
 
 ---
