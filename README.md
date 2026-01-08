@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Oi, eu sou a Letícia!
 
-<!--
-**L3ticias0uz4/L3ticias0uz4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Desenvolvimento de Sistemas**  
+💻 Apaixonada por tecnologia, lógica e desenvolvimento de software  
+🚀 Em constante aprendizado e evolução
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que estudo e utilizo
+- ☕ Java  
+- 🌐 HTML5 e CSS3  
+- 🧩 Lógica de Programação  
+- 🔧 Git e GitHub  
+
+---
+
+## 📂 Meus projetos
+
+- 🔹 [AulaFiama](https://github.com/L3ticias0uz4/AulaFiama)  
+  Projeto em Java para praticar lógica e estrutura.
+
+- 🔹 [Portifolio_Bootstrap](https://github.com/L3ticias0uz4/Portifolio_Bootstrap)  
+  Portfólio feito com HTML, CSS e Bootstrap.
+
+- 🔹 [ExerciciosJava](https://github.com/L3ticias0uz4/ExerciciosJava)  
+  Repositório com exercícios em Java.
+
+---
+
+## 📚 Atualmente estou aprendendo
+- Programação orientada a objetos  
+- Estrutura de dados  
+- Boas práticas de código  
+- Desenvolvimento de sistemas  
+
+---
+
+## 🎯 Objetivos
+✨ Evoluir como desenvolvedora  
+✨ Criar projetos cada vez mais completos  
+✨ Conquistar oportunidades na área de tecnologia  
+
+---
+
+## 📫 Contato
+📧 Email: (leticiasouza5600@gmail.com)  
+💼 LinkedIn: (www.linkedin.com/in/leticia-souza1012)
+
+---
+
+✨ Obrigada por visitar meu perfil!
