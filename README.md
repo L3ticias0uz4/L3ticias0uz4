@@ -16,11 +16,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=L3ticias0uz4&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=L3ticias0uz4&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 ## 🌟 Projetos em destaque
