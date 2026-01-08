@@ -3,7 +3,7 @@
 ## 👋 Oi, eu sou a Letícia
 
 🎓 Estudante de **Desenvolvimento de Sistemas**  
-💻 Apaixonada por tecnologia, lógica e programação  
+💻 Gosto de tecnologia, lógica e programação  
 🚀 Sempre em aprendizado e evolução
 
 ---
