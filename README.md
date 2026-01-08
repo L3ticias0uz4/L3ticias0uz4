@@ -1,51 +1,47 @@
-# 👋 Oi, eu sou a Letícia!
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:9333ea&height=180&section=header&text=Letícia%20Souza&fontSize=40&fontColor=ffffff)
+
+## 👋 Oi, eu sou a Letícia
 
 🎓 Estudante de **Desenvolvimento de Sistemas**  
-💻 Aprendendendo mais sobre tecnologia, lógica e desenvolvimento de software  
-🚀 Em constante aprendizado e evolução
+💻 Apaixonada por tecnologia, lógica e programação  
+🚀 Sempre em aprendizado e evolução
 
 ---
 
-## 🛠️ Tecnologias que estudo e utilizo
-- ☕ Java  
-- 🌐 HTML5 e CSS3  
-- 🧩 Lógica de Programação  
-- 🔧 Git e GitHub  
+## 🛠️ Tecnologias
+![Java](https://img.shields.io/badge/Java-4f46e5?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-6366f1?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-7c3aed?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-9333ea?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📂 Meus projetos
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=L3ticias0uz4&show_icons=true&theme=tokyonight&hide_border=true)
 
-- 🔹 [AulaFiama](https://github.com/L3ticias0uz4/AulaFiama)  
-  Projeto em Java para praticar lógica e estrutura.
-
-- 🔹 [Portifolio_Bootstrap](https://github.com/L3ticias0uz4/Portifolio_Bootstrap)  
-  Portfólio feito com HTML, CSS e Bootstrap.
-
-- 🔹 [ExerciciosJava](https://github.com/L3ticias0uz4/ExerciciosJava)  
-  Repositório com exercícios em Java.
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=L3ticias0uz4&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📚 Atualmente estou aprendendo
-- Programação orientada a objetos  
-- Estrutura de dados  
-- Boas práticas de código  
-- Desenvolvimento de sistemas  
+## 🌟 Projetos em destaque
+💻 **[AulaFiama](https://github.com/L3ticias0uz4/AulaFiama)**  
+☕ Java • Prática de lógica  
+
+🌐 **[Portifolio_Bootstrap](https://github.com/L3ticias0uz4/Portifolio_Bootstrap)**  
+HTML • CSS • Bootstrap  
+
+📚 **[ExerciciosJava](https://github.com/L3ticias0uz4/ExerciciosJava)**  
+Exercícios e prática em Java  
 
 ---
 
-## 🎯 Objetivos
-✨ Evoluir como desenvolvedora  
-✨ Criar projetos cada vez mais completos  
-✨ Conquistar oportunidades na área de tecnologia  
+## 🐍 Atividade de contribuições
+![Snake animation](https://github.com/L3ticias0uz4/L3ticias0uz4/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 📫 Contato
-📧 Email: (leticiasouza5600@gmail.com)  
+📧 Email: (leticiasouza56000@gmail.com)  
 💼 LinkedIn: (www.linkedin.com/in/leticia-souza1012)
-
----
 
 ✨ Obrigada por visitar meu perfil!
