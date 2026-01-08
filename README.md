@@ -31,12 +31,7 @@
 HTML • CSS • Bootstrap  
 
 📚 **[ExerciciosJava](https://github.com/L3ticias0uz4/ExerciciosJava)**  
-Exercícios e prática em Java  
-
----
-
-## 🐍 Atividade de contribuições
-![Snake animation](https://github.com/L3ticias0uz4/L3ticias0uz4/blob/output/github-contribution-grid-snake.svg)
+Exercícios e prática em Java 
 
 ---
 
