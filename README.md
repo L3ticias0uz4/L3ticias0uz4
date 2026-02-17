@@ -32,7 +32,7 @@ Exercícios e prática em Java
 
 ## 📫 Contato
 📧 Email: (leticiasouza56000@gmail.com)  
-💼 LinkedIn: (www.linkedin.com/in/leticia-souza1012)
+💼 LinkedIn: (www.linkedin.com/in/leticia-souza1012)   
 ☎️ Telefone: (11 969123859)
 
 ✨ Obrigada por visitar meu perfil!
