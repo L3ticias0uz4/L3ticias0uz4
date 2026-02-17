@@ -3,8 +3,8 @@
 ## 👋 Oi, eu sou a Letícia
 
 🎓 Estudante de **Desenvolvimento de Sistemas**  
-💻 Gosto de tecnologia, lógica e programação  
-🚀 Sempre em aprendizado e evolução
+💻 Aprendendo tecnologia, lógica e programação  
+🚀 Sempre estudando para melhorar o aprendizado
 
 ---
 
@@ -33,5 +33,6 @@ Exercícios e prática em Java
 ## 📫 Contato
 📧 Email: (leticiasouza56000@gmail.com)  
 💼 LinkedIn: (www.linkedin.com/in/leticia-souza1012)
+☎️ Telefone: (11 969123859)
 
 ✨ Obrigada por visitar meu perfil!
